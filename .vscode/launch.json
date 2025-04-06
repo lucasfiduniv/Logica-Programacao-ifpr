@@ -1,0 +1,22 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug C (dinâmico)",
+      "type": "lldb",
+      "request": "launch",
+      "program": "${fileDirname}/${fileBasenameNoExtension}",
+      "cwd": "${fileDirname}",
+      "args": [],
+      "stopAtEntry": false
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula2/7-quadrado",
+      "program": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula2/7-quadrado/build/Debug/outDebug"
+    }
+  ]
+}
