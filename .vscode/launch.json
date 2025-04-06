@@ -15,8 +15,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula2/7-quadrado",
-      "program": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula2/7-quadrado/build/Debug/outDebug"
+      "cwd": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula2/8-soma",
+      "program": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula2/8-soma/build/Debug/outDebug"
     }
   ]
 }
