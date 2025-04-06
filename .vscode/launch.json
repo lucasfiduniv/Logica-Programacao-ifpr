@@ -15,8 +15,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula2/10-sucessoreAntecessor",
-      "program": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula2/10-sucessoreAntecessor/build/Debug/outDebug"
+      "cwd": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula2/12-fahreheittocelcius",
+      "program": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula2/12-fahreheittocelcius/build/Debug/outDebug"
     }
   ]
 }
