@@ -15,8 +15,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula2/12-fahreheittocelcius",
-      "program": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula2/12-fahreheittocelcius/build/Debug/outDebug"
+      "cwd": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula2/14-dividirentreosganhadores",
+      "program": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula2/14-dividirentreosganhadores/build/Debug/outDebug"
     }
   ]
 }
