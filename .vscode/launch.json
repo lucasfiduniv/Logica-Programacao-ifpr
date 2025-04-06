@@ -15,8 +15,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula2/8-soma",
-      "program": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula2/8-soma/build/Debug/outDebug"
+      "cwd": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula2/9-todasasoperacoes",
+      "program": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula2/9-todasasoperacoes/build/Debug/outDebug"
     }
   ]
 }
