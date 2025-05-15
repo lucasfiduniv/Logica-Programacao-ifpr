@@ -15,8 +15,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula7/11-fibonacci",
-      "program": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula7/11-fibonacci/build/Debug/outDebug"
+      "cwd": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula7/5-soma-50-pares",
+      "program": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula7/5-soma-50-pares/build/Debug/outDebug"
     }
   ]
 }
