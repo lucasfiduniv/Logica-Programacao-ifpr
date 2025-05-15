@@ -15,8 +15,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula7/09-hn",
-      "program": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula7/09-hn/build/Debug/outDebug"
+      "cwd": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula7/10-aumento-salarial",
+      "program": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula7/10-aumento-salarial/build/Debug/outDebug"
     }
   ]
 }
