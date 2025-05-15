@@ -20,8 +20,8 @@ int main(void){
         scanf("%f", &num1);
         printf("Digite o segundo número: ");
         scanf("%f", &num2);
-        printf("Digite o operador: opcoes validas: +, -, *, /\n");
-        scanf(" %c", &operador);
+        printf("Digite o operador: opcoes validas: +, -, *, /");
+        scanf("%c", &operador);
         switch (operador)
             {
             case '+':

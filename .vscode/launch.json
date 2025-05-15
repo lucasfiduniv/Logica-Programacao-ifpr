@@ -15,8 +15,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula5/1-jogo",
-      "program": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula5/1-jogo/build/Debug/outDebug"
+      "cwd": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula7/11-fibonacci",
+      "program": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula7/11-fibonacci/build/Debug/outDebug"
     }
   ]
 }
