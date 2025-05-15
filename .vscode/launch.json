@@ -15,8 +15,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula7/08-exercicio-do-quadrado",
-      "program": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula7/08-exercicio-do-quadrado/build/Debug/outDebug"
+      "cwd": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula7/09-hn",
+      "program": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula7/09-hn/build/Debug/outDebug"
     }
   ]
 }
