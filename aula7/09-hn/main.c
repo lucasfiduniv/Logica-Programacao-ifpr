@@ -9,6 +9,7 @@ int main() {
 
     for (int i = 1; i <= n; i++) {
         Hn = Hn +  1.0 / i;
+        printf("%0.10lf \n",Hn);
     }
 
     printf("O valor de Hn é: %.6lf\n", Hn);
