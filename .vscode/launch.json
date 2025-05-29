@@ -15,8 +15,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula8/04-somaSubEMedia",
-      "program": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula8/04-somaSubEMedia/build/Debug/outDebug"
+      "cwd": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula8/05-eleicao",
+      "program": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula8/05-eleicao/build/Debug/outDebug"
     }
   ]
 }
