@@ -15,8 +15,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula8/06-fizzbuzz",
-      "program": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/aula8/06-fizzbuzz/build/Debug/outDebug"
+      "cwd": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/listaOBI/relogio",
+      "program": "/Users/lucasfiduniv/Documents/GitHub/Logica-Programacao/listaOBI/relogio/build/Debug/outDebug"
     }
   ]
 }
