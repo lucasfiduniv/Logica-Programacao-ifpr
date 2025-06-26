@@ -32,6 +32,7 @@ int main(void) {
     // H += M / 60;
     // M %= 60;
     // H %= 24;
+    
 
     TotalS = (H*3600)+(M*60)+S+T;
     H = (TotalS / 60)/60;
